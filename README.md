@@ -1,2 +1,0 @@
-# cheesie
-Cheesie Soundsystem
